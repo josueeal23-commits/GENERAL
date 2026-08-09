@@ -1,0 +1,23 @@
+{
+  "name": "detodo-gestion-acciones",
+  "version": "1.0.0",
+  "description": "DeTodo - Gestión de Acciones a Ejecutar",
+  "main": "detodo_management_platform_camara_unica.html",
+  "scripts": {
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josueeal23-commits/GENERAL.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/josueeal23-commits/GENERAL/issues"
+  },
+  "homepage": "https://github.com/josueeal23-commits/GENERAL#readme",
+  "dependencies": {
+    "@vercel/speed-insights": "^2.0.0"
+  }
+}
